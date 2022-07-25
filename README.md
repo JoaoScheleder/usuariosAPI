@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Project Build with TypeORM
 
 Steps to run this project:
 
@@ -7,7 +7,8 @@ Steps to run this project:
 3. Run `npm start` command
  
  ## GET
-[/v1/users](#get-v1users) <br/>
+swagger: [/v1/api-docs](#get-v1users) <br/>
+list users: [/v1/users](#get-v1users) <br/>
 
 ## POST
- [/v1/user/create](#post-v1user-create) <br/>
+create user: [/v1/user/create](#post-v1user-create) <br/>
